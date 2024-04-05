@@ -14,8 +14,8 @@ public class DeclarationApp {
 		String name = "Lysiane";
 		String randomString = "Voici le resultat d'un calcul: 1 + 5 = 6";
 		
-		System.out.println("byte");
-		System.out.println("randomString");
+		System.out.println(myByte);
+		System.out.println(randomString);
 
 	}
 
